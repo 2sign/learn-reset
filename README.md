@@ -8,4 +8,8 @@ Git 저장소 초기화하기
 
 push, pull 명령어 사용하기
 
+<<<<<<< HEAD
 Git과 친해졌으면...
+=======
+Git은 너무 어려워...
+>>>>>>> 42b6e3d3eeba4f7d4c6fc1b1d28d2f28eb54a864
